@@ -23,8 +23,7 @@ a server capable of tracking popular posts on Tumblr.
 
 ## Documentation: 
 
-Our server is running on redwolf.cdf.toronto.edu:31110 with nodejs and built on
-the express web framework.
+Our server is running on nodejs and built on the express web framework.
 
 Our main server file is 'app.js' and the functions that handle the requests is blog.js.
 
