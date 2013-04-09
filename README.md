@@ -1,12 +1,19 @@
-# CSC309 Assignment 2 Tumblr Trends
+# tumblr-trends
 
-Jiang Tao Hong, 647 996 2982, jacksonxxhong@gmail.com
+## Authors:
 
-Mihai Nicolae, 647 382 9128, m.nicolae91@gmail.com
+[Jiang Tao Hong](http://github.com/jianghong)    
+[Kevin Leung](http://github.com/kevleung)  
+[Mihai Nicolae](http://github.com/mnicolae)   
+[Philip Ojha](http://github.com/oojhaa)  
 
-Philip Ojha, 647 454 5564, philip.ojha@gmail.com
+## Instructor:
 
-Kevin Leung, 647 832 3916, chestford@gmail.com
+**Juan Gonzales**  
+
+# Links:
+
+[Assignment handout](http://csc309.fabspaces.cc/?page_id=105)
 
 ## Documentation: 
 
