@@ -27,7 +27,7 @@ Then, to run the client, in browser:
 
 **Juan Gonzales**  
 
-# Links:
+## Links:
 
 [Assignment handout](http://csc309.fabspaces.cc/?page_id=105)
 
