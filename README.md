@@ -6,6 +6,16 @@ With such a massive number of new items every day, it is very hard to find great
 content likely to become popular until it already has. Until now… This project is 
 a server capable of tracking popular posts on Tumblr.
 
+## Important note:
+
+The server is currently not running. To run it, in terminal:
+
+	node index.js
+
+Then, to run the client, in browser:
+
+	http://127.0.0.1:31280/
+
 ## Authors:
 
 [Jiang Tao Hong](http://github.com/jianghong)    
