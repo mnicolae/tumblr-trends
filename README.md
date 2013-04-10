@@ -3,14 +3,14 @@
 On any single day Tumblr.com receives well over 50 million new posts. 
 
 With such a massive number of new items every day, it is very hard to find great 
-content likely to become popular until it already has. Until now… This project is 
+content likely to become popular until it already has. Until now … This project is 
 a server capable of tracking popular posts on Tumblr.
 
 ## Important note:
 
 The server is currently not running. To run it, in terminal:
 
-	node index.js
+	node app.js
 
 Then, to run the client, in browser:
 
